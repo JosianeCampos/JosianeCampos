@@ -1,9 +1,11 @@
 
-  ## Oii, eu sou a Josiane Campos!
+   ## Oii, eu sou a Josiane!
   
-- 🔭 Hoje eu trabalho com Análise de Dados
-- 🌱 Eu estou aprendendo Marchine Learning
-- 😄 Pronouns: ela/dela
+- 🔭 Atualmente estou em constante aprendizado para entrar na área de Análise de dados.
+- 🌱 No momento estou aprendendo Marchine Learning
+- ⚡ Curiosidade sobre mim: Amo ouvir música e relaxar lendo um bom livro.
+- ✅ Habilidades: me comunico bem, gosto de trabalhar em equipe, apaixonada em aprender coisas novas.
+
 
 <div align="center">
   <a href="https://github.com/JosianeCampos">
